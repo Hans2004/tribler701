@@ -8,11 +8,11 @@
 #                 -v $HOME/Tribler/Downloads:/root/Downloads \
 #                 -v $HOME/.Tribler:/root/.Tribler \
 #                 --volume="$HOME/.Xauthority:/root/.Xauthority:rw" \
-#                 --name "tribler700beta" \
-#                 pipo2004/tribler700beta /usr/bin/tribler
+#                 --name "tribler701" \
+#                 pipo2004/tribler701 /usr/bin/tribler
 
 # 
-# After quitting the container, it can be restarted with: docker restart tribler700beta
+# After quitting the container, it can be restarted with: docker restart tribler701
 #
 #
 
